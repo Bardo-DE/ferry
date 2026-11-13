@@ -408,7 +408,7 @@ dependencies = [
 [[package]]
 name = "dav-proto"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "http",
  "roxmltree",
@@ -439,7 +439,7 @@ dependencies = [
 [[package]]
 name = "ds-behaviour"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
+source = "git+https://github.com/Bardo-DE/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
 dependencies = [
  "ds-core",
 ]
@@ -447,7 +447,7 @@ dependencies = [
 [[package]]
 name = "ds-core"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
+source = "git+https://github.com/Bardo-DE/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
 dependencies = [
  "chordkit",
  "ds-core-derive",
@@ -460,7 +460,7 @@ dependencies = [
 [[package]]
 name = "ds-core-derive"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
+source = "git+https://github.com/Bardo-DE/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
 dependencies = [
  "proc-macro-crate",
  "proc-macro2",
@@ -471,7 +471,7 @@ dependencies = [
 [[package]]
 name = "ds-helpers"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
+source = "git+https://github.com/Bardo-DE/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
 dependencies = [
  "ds-peer",
  "rustix",
@@ -483,7 +483,7 @@ dependencies = [
 [[package]]
 name = "ds-peer"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
+source = "git+https://github.com/Bardo-DE/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
 dependencies = [
  "futures-timer",
  "thiserror",
@@ -492,7 +492,7 @@ dependencies = [
 [[package]]
 name = "ds-settings"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
+source = "git+https://github.com/Bardo-DE/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
 dependencies = [
  "ds-behaviour",
  "ds-core",
@@ -514,7 +514,7 @@ dependencies = [
 [[package]]
 name = "ds-settings-derive"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
+source = "git+https://github.com/Bardo-DE/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -524,7 +524,7 @@ dependencies = [
 [[package]]
 name = "ds-style"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
+source = "git+https://github.com/Bardo-DE/quire.git?rev=d17e19da64c8845d8eb413784b2d84f177a86767#d17e19da64c8845d8eb413784b2d84f177a86767"
 dependencies = [
  "ds-core",
  "ds-core-derive",
@@ -598,7 +598,7 @@ dependencies = [
 [[package]]
 name = "fake-secret-service"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "serde",
  "thiserror",
@@ -1592,7 +1592,7 @@ dependencies = [
 [[package]]
 name = "porter-callers"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "peephole",
  "peephole-bus",
@@ -1608,7 +1608,7 @@ dependencies = [
 [[package]]
 name = "porter-capability"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-ids",
  "serde",
@@ -1617,7 +1617,7 @@ dependencies = [
 [[package]]
 name = "porter-client"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "futures-core",
  "futures-util",
@@ -1634,7 +1634,7 @@ dependencies = [
 [[package]]
 name = "porter-client-dbus"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "futures-util",
  "porter-capability",
@@ -1654,7 +1654,7 @@ dependencies = [
 [[package]]
 name = "porter-client-inproc"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-client",
@@ -1676,7 +1676,7 @@ dependencies = [
 [[package]]
 name = "porter-core"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "peephole-core",
  "porter-capability",
@@ -1692,7 +1692,7 @@ dependencies = [
 [[package]]
 name = "porter-daemon"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "thiserror",
 ]
@@ -1700,7 +1700,7 @@ dependencies = [
 [[package]]
 name = "porter-dbus"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-core",
  "porter-dbus-macros",
@@ -1717,7 +1717,7 @@ dependencies = [
 [[package]]
 name = "porter-dbus-macros"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -1727,7 +1727,7 @@ dependencies = [
 [[package]]
 name = "porter-discover"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-core",
@@ -1743,7 +1743,7 @@ dependencies = [
 [[package]]
 name = "porter-fake"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-core",
@@ -1759,7 +1759,7 @@ dependencies = [
 [[package]]
 name = "porter-fake-servers"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "base64 0.22.1",
  "dav-proto",
@@ -1784,12 +1784,12 @@ dependencies = [
 [[package]]
 name = "porter-fs"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 
 [[package]]
 name = "porter-http"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "http",
  "httpdate",
@@ -1801,7 +1801,7 @@ dependencies = [
 [[package]]
 name = "porter-http-relay"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "http-body-util",
  "hyper",
@@ -1817,7 +1817,7 @@ dependencies = [
 [[package]]
 name = "porter-http-reqwest"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-http",
  "porter-ids",
@@ -1829,7 +1829,7 @@ dependencies = [
 [[package]]
 name = "porter-ids"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "chrono",
  "percent-encoding",
@@ -1840,7 +1840,7 @@ dependencies = [
 [[package]]
 name = "porter-match"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-ids",
@@ -1850,7 +1850,7 @@ dependencies = [
 [[package]]
 name = "porter-provider"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-core",
@@ -1865,7 +1865,7 @@ dependencies = [
 [[package]]
 name = "porter-proxy"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "base64 0.22.1",
  "httparse",
@@ -1882,7 +1882,7 @@ dependencies = [
 [[package]]
 name = "porter-rig"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "clap",
  "fake-secret-service",
@@ -1905,7 +1905,7 @@ dependencies = [
 [[package]]
 name = "porter-secrets"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-core",
@@ -1919,7 +1919,7 @@ dependencies = [
 [[package]]
 name = "porter-service"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-core",
@@ -1937,7 +1937,7 @@ dependencies = [
 [[package]]
 name = "porter-service-accounts"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-core",
@@ -1954,7 +1954,7 @@ dependencies = [
 [[package]]
 name = "porter-service-core"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-core",
@@ -1972,7 +1972,7 @@ dependencies = [
 [[package]]
 name = "porter-service-grants"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-core",
@@ -1989,7 +1989,7 @@ dependencies = [
 [[package]]
 name = "porter-sheet"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-core",
@@ -2003,7 +2003,7 @@ dependencies = [
 [[package]]
 name = "porter-tailscale"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-ids",
  "serde",
@@ -2014,7 +2014,7 @@ dependencies = [
 [[package]]
 name = "porter-wire"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 dependencies = [
  "porter-capability",
  "porter-core",
@@ -2746,7 +2746,7 @@ dependencies = [
 [[package]]
 name = "test-kit"
 version = "0.1.0"
-source = "git+https://github.com/PoHsuanLai/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
+source = "git+https://github.com/Bardo-DE/porter?rev=f406782b90b67f62f0f14ec5e78aec8992b5d709#f406782b90b67f62f0f14ec5e78aec8992b5d709"
 
 [[package]]
 name = "thiserror"
